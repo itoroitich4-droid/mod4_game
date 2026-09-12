@@ -1,0 +1,26 @@
+{
+  "help": {
+    "title": "How to Play",
+    "instructions": [
+        "Select a game mode to start playing.",
+        "One set has 3 questions;2 true and 1 lie",
+      "Choose Quickplay to get 5 random question sets.",
+      "Choose Categories to select your preferred category.",
+      "Choose Streak and answer questions until you get one wrong."
+         ]
+  },
+  "credits": [
+    {
+      "name": "Ian",
+      "role": "UI Designer"
+    },
+    {
+      "name": "Obuba",
+      "role": "database developer"
+    },
+    {
+      "name": "Omari",
+      "role": "game developer"
+    }
+  ]
+}
