@@ -1,20 +1,17 @@
-class AccountManager:
-    def __init__(self):
-        self.users = {}
+import hashlib
+import functools
 
-    def register_user(self, username: str, age: int) -> bool:
-        if not username or not isinstance(username, str):
-            raise ValueError("Invalid username")
-        if age < 14:
-            raise ValueError("User must be at least 14 years old")
-        if username in self.users:
-            return False
-            
-        self.users[username] = {"age": age, "active": True}
-        return True
+def hash_password(password: str) -> str:
+    """Hashes a raw password string using SHA-256."""
+    return hashlib.sha256(password.encode()).hexdigest()
 
-    def is_active(self, username: str) -> bool:
-        user = self.users.get(username)
-        if not user:
-            return False
-        return user["active"]
+def require_auth(func):
+    """Decorator to protect screens from unauthorized access."""
+    @functools.wraps(func)
+    def wrapper(self, *args, **kwargs):
+        if not self.current_user:
+            print("[SECURITY WARNING] Unauthorized access attempt blocked.")
+            self.current_screen = "login"
+            return None
+        return func(self, *args, **kwargs)
+    return wrapper
