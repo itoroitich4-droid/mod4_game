@@ -8,7 +8,7 @@ screen = pygame.display.set_mode((800, 700))
 pygame.display.set_caption("101 Game")
 
 pygame.mixer.music.load("assets/sounds/good.mp3")
-pygame.mixer.music.set_volume(0.0)
+pygame.mixer.music.set_volume(0.5)
 pygame.mixer.music.play(-1)
 
 
