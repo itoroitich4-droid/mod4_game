@@ -1,0 +1,832 @@
+{
+"categories": {
+"Travel & Places": [
+{
+"statements": [
+"The Eiffel Tower is in Paris.",
+"Mount Everest is in Africa.",
+"Japan is an island country."
+],
+"answer": 1
+},
+{
+"statements": [
+"Brazil is in Europe.",
+"The Nile River flows through Egypt.",
+"Canada is the second-largest country in the world by area."
+],
+"answer": 0
+},
+{
+"statements": [
+"The capital of Kenya is Nairobi.",
+"Mexico is in Africa.",
+"Australia is both a country and a continent."
+],
+"answer": 1
+},
+{
+"statements": [
+"The Great Wall of China is in China.",
+"The Sahara is a desert in Africa.",
+"New York City is the capital of the United States."
+],
+"answer": 2
+},
+{
+"statements": [
+"India is located in South America.",
+"Mount Kilimanjaro is in Tanzania.",
+"The Amazon rainforest is mainly in South America."
+],
+"answer": 0
+},
+{
+"statements": [
+"London is the capital of France.",
+"Rome is the capital of Italy.",
+"The Mediterranean Sea lies between Europe and Africa."
+],
+"answer": 0
+},
+{
+"statements": [
+"Germany is located in South America.",
+"The United Kingdom is made up of several countries.",
+"The Pacific Ocean is the largest ocean."
+],
+"answer": 0
+},
+{
+"statements": [
+"Dubai is a city in the United Arab Emirates.",
+"Thailand is located in South America.",
+"The Andes Mountains are in South America."
+],
+"answer": 1
+},
+{
+"statements": [
+"Greece is famous for its ancient ruins.",
+"Nepal is located in Africa.",
+"Iceland is known for volcanoes and geothermal activity."
+],
+"answer": 1
+},
+{
+"statements": [
+"Switzerland is famous for the Alps.",
+"Egypt is located in South America.",
+"The Dead Sea is known for its high salt content."
+],
+"answer": 1
+}
+],
+    "Food & Drinks": [
+        {
+            "statements": [
+                "Chocolate is made mainly from potatoes.",
+                "Bananas are botanically classified as berries.",
+                "Honey can remain edible for a very long time."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Pizza is strongly associated with Italy.",
+                "Rice is a major food crop around the world.",
+                "Coffee beans are actually beans like kidney beans."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Bread is normally made from metal.",
+                "Carrots can be orange.",
+                "Watermelon contains a lot of water."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Apples contain seeds.",
+                "Sugar is naturally blue.",
+                "Cheese can be made from milk."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Rice grows on trees.",
+                "Tea is one of the world's most consumed drinks.",
+                "Avocados contain healthy fats."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Potatoes are underground tubers.",
+                "Pasta is traditionally made from wood.",
+                "Oranges contain vitamin C."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Cocoa beans are used to make chocolate.",
+                "Salt is naturally sweet.",
+                "Popcorn is made from a type of corn."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Bananas normally grow underground.",
+                "Milk can be used to make yogurt.",
+                "Peanuts are legumes."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Garlic is commonly used as a seasoning.",
+                "Ice cream is normally served hot.",
+                "Ginger is a plant used in cooking."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Coffee plants produce potatoes.",
+                "Mangoes are fruits.",
+                "Bread can be made using yeast."
+            ],
+            "answer": 0
+        }
+    ],
+
+    "Movies & TV": [
+        {
+            "statements": [
+                "Leonardo DiCaprio played Harry Potter.",
+                "Tom Hanks starred in Forrest Gump.",
+                "The Simpsons is an animated television show."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Batman is a superhero.",
+                "Spider-Man is a character from Star Wars.",
+                "Netflix produces television shows and movies."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Superman is a Marvel character.",
+                "The Lion King features a character named Simba.",
+                "Harry Potter is based on books by J.K. Rowling."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Toy Story is an animated movie.",
+                "The Avengers are characters from the Harry Potter universe.",
+                "James Bond is a fictional spy."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Batman is usually associated with Metropolis.",
+                "Titanic was directed by James Cameron.",
+                "Shrek is an animated character."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Friends is a television sitcom.",
+                "Breaking Bad stars Bryan Cranston as Walter White.",
+                "The Simpsons is a live-action sports program."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Iron Man is a character from the Harry Potter books.",
+                "Frozen features a character named Elsa.",
+                "Star Wars includes a character named Darth Vader."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Matrix was released in 1999.",
+                "Jurassic Park is about talking penguins.",
+                "The Lord of the Rings includes a character named Frodo."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Indiana Jones is a professional basketball player.",
+                "Avatar was directed by James Cameron.",
+                "The Incredibles is an animated superhero movie."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Wakanda is a fictional country in Marvel's Black Panther.",
+                "Homer Simpson is a character from The Simpsons.",
+                "Harry Potter is a character from The Lord of the Rings."
+            ],
+            "answer": 2
+        }
+    ],
+
+    "Music": [
+        {
+            "statements": [
+                "Michael Jackson was called the King of Pop.",
+                "Bob Marley was born in Canada.",
+                "The Beatles were a famous British band."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "A piano has keys.",
+                "A drum is normally played using a keyboard.",
+                "A guitar commonly has six strings."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Mozart was a professional football player.",
+                "Freddie Mercury was the lead singer of Queen.",
+                "Elvis Presley was known as the King of Rock and Roll."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Beyonce is a singer.",
+                "Taylor Swift is primarily known as a professional astronaut.",
+                "A saxophone is a musical instrument."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "A piano is normally played using a steering wheel.",
+                "Reggae music is strongly associated with Jamaica.",
+                "A violin normally has four strings."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Drums are percussion instruments.",
+                "A guitar is normally played using a refrigerator.",
+                "A trumpet is a brass instrument."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Beethoven was a famous Formula One driver.",
+                "A choir is a group of singers.",
+                "Hip-hop developed as a cultural movement in the United States."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "A DJ can mix music.",
+                "A microphone is mainly used to cook pasta.",
+                "The Grammy Awards recognize achievements in music."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Drake is a Canadian artist.",
+                "A guitar normally has twenty-four piano pedals.",
+                "A melody is a sequence of musical notes."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Michael Jackson was a professional Formula One driver.",
+                "Classical music includes works by Beethoven.",
+                "A bass guitar usually has thicker strings than a standard guitar."
+            ],
+            "answer": 0
+        }
+    ],
+
+    "Sports": [
+        {
+            "statements": [
+                "Usain Bolt is a famous swimmer.",
+                "Basketball was invented by James Naismith.",
+                "A soccer team normally has 11 players on the field."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Michael Jordan was a famous basketball player.",
+                "Cristiano Ronaldo is a professional golfer.",
+                "Tennis can be played as singles or doubles."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Serena Williams is famous for basketball.",
+                "Football is played with a ball.",
+                "The Olympic Games include many different sports."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "A marathon is a long-distance running race.",
+                "Swimming is an Olympic sport.",
+                "Lionel Messi is famous for professional cricket."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Formula One is a swimming competition.",
+                "A basketball hoop is higher than most people.",
+                "Golf is played using clubs."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Boxing involves two opponents fighting with gloves.",
+                "Usain Bolt is famous for competitive chess.",
+                "Volleyball is played over a net."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Tiger Woods is famous for professional swimming.",
+                "Rugby is a team sport.",
+                "Cricket uses a bat and ball."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Tour de France is a cycling race.",
+                "Michael Phelps is famous for Formula One racing.",
+                "A goalkeeper can use their hands in certain areas of soccer."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Wimbledon is a famous tennis tournament.",
+                "The Super Bowl is a professional tennis tournament.",
+                "The NBA is a basketball league."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "A football goalkeeper normally wears boxing gloves to score goals.",
+                "A referee helps enforce rules during many sports.",
+                "Athletes train to improve their performance."
+            ],
+            "answer": 0
+        }
+    ],
+
+    "Animals & Nature": [
+        {
+            "statements": [
+                "Penguins naturally live in the Sahara Desert.",
+                "Octopuses have three hearts.",
+                "A group of lions is called a pride."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Elephants are mammals.",
+                "Fish normally breathe using human lungs.",
+                "Some snakes are venomous."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Lions are naturally purple.",
+                "Dolphins are mammals.",
+                "Bees can produce honey."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Giraffes have very long necks.",
+                "Cheetahs are known for speed.",
+                "Penguins can naturally fly like eagles."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Dogs naturally have six wings.",
+                "Whales are mammals.",
+                "Spiders have eight legs."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Some frogs can live both in water and on land.",
+                "Polar bears naturally live in the Sahara Desert.",
+                "Polar bears live in the Arctic."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Trees produce oxygen through photosynthesis.",
+                "Trees normally walk around during the night.",
+                "Rainforests contain many different species."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Butterflies begin life as caterpillars.",
+                "Crocodiles are normally covered in feathers.",
+                "Crocodiles are reptiles."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Kangaroos naturally live in Antarctica.",
+                "Camels can survive in very dry environments.",
+                "Kangaroos are native to Australia."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Sharks are fish.",
+                "Some sharks must keep moving to breathe efficiently.",
+                "Sharks are mammals like humans."
+            ],
+            "answer": 2
+        }
+    ],
+
+    "Science & Technology": [
+        {
+            "statements": [
+                "Earth revolves around the Sun.",
+                "Water contains hydrogen and oxygen.",
+                "Humans naturally have three lungs."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Computers were invented before electricity existed.",
+                "Python is a programming language.",
+                "The Moon orbits Earth."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Sun is made entirely of ice.",
+                "The human body contains bones.",
+                "Plants use sunlight during photosynthesis."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Earth has a natural satellite called the Moon.",
+                "Sound travels faster than light.",
+                "Gravity pulls objects toward Earth."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Computers use processors to perform calculations.",
+                "A keyboard is normally used to cook food.",
+                "The internet connects computers around the world."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "The Moon is larger than the Sun.",
+                "Mars is often called the Red Planet.",
+                "Jupiter is the largest planet in our solar system."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Water freezes at around 0 degrees Celsius under normal conditions.",
+                "Humans can naturally see ultraviolet light clearly.",
+                "DNA carries genetic information."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Electricity can power electronic devices.",
+                "A smartphone normally works without any electronic components.",
+                "Solar panels can convert sunlight into electricity."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "The brain is part of the human nervous system.",
+                "The Earth is shaped like a perfect flat square.",
+                "Atoms make up ordinary matter."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "A computer mouse is normally used to measure rainfall.",
+                "A thermometer measures temperature.",
+                "Robots can be programmed to perform tasks."
+            ],
+            "answer": 0
+        }
+    ],
+
+    "History": [
+        {
+            "statements": [
+                "The Roman Empire began in the 20th century.",
+                "The Great Wall is in China.",
+                "Ancient Egyptians built pyramids."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "World War II ended in 1945.",
+                "Julius Caesar was a modern-day president of the United States.",
+                "Julius Caesar was a Roman leader."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "The first computers were invented by ancient Romans.",
+                "Ancient Rome was an important civilization.",
+                "The pyramids are strongly associated with ancient Egypt."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Titanic sank in 1912.",
+                "The Industrial Revolution changed manufacturing.",
+                "The Titanic was a modern smartphone."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "The printing press was invented as a type of electric car.",
+                "The ancient Olympic Games began in Greece.",
+                "The printing press became important in European history."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Nelson Mandela became president of South Africa.",
+                "The Berlin Wall fell in 1989.",
+                "Nelson Mandela was a professional Formula One driver."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "The Wright brothers are associated with early powered flight.",
+                "The American Declaration of Independence was adopted in 1776.",
+                "The Wright brothers invented the internet in ancient Egypt."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Cleopatra was associated with ancient Egypt.",
+                "Cleopatra was a famous modern-day astronaut.",
+                "The Roman Empire controlled large areas of Europe."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "The Cold War involved tensions between major powers.",
+                "Humans first landed on the Moon in 1500.",
+                "The first humans landed on the Moon in 1969."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Leonardo da Vinci was a professional basketball player.",
+                "The Renaissance began in Europe.",
+                "Leonardo da Vinci was an artist and inventor."
+            ],
+            "answer": 0
+        }
+    ],
+
+    "Weird & Random": [
+        {
+            "statements": [
+                "A group of crows can be called a murder.",
+                "Humans can naturally breathe underwater.",
+                "Some turtles can breathe through their skin."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Some frogs can freeze and survive.",
+                "Bananas can float in water.",
+                "Humans naturally have blue blood."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Snails are faster than racing cars.",
+                "Octopuses have three hearts.",
+                "Some snails can sleep for long periods."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "A day on Venus is longer than its year.",
+                "Venus is made entirely of chocolate.",
+                "Some cats can have extra toes."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Some animals can regrow lost body parts.",
+                "Lightning can strike the same place more than once.",
+                "Lightning is made of frozen water."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Cows naturally glow in complete darkness.",
+                "Cows have excellent memories.",
+                "Some birds can imitate human sounds."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "A group of flamingos can be called a flamboyance.",
+                "Some plants can respond to touch.",
+                "Flamingos are naturally born with metal wings."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "Some fish can change color.",
+                "Certain insects can survive extreme conditions.",
+                "All insects are larger than elephants."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "All mushrooms are made from plastic.",
+                "Some mushrooms can glow in the dark.",
+                "Certain animals use camouflage to hide."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "Some birds migrate thousands of kilometers.",
+                "Every bird can breathe underwater.",
+                "Certain animals can survive without food for long periods."
+            ],
+            "answer": 1
+        }
+    ],
+
+    "General Knowledge": [
+        {
+            "statements": [
+                "Sydney is the capital of Australia.",
+                "The Pacific Ocean is the largest ocean.",
+                "There are seven continents."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The Earth has one natural Moon.",
+                "Every month has exactly 100 days.",
+                "A year normally has 12 months."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "There are 60 minutes in an hour.",
+                "There are 24 hours in a day.",
+                "There are 100 minutes in every hour."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "A circle has four straight sides.",
+                "A triangle has three sides.",
+                "A square has four equal sides."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "The human body has two eyes.",
+                "Humans normally have two ears.",
+                "Humans normally have five noses."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "A week has seven days.",
+                "A decade has ten years.",
+                "A century has ten years."
+            ],
+            "answer": 2
+        },
+        {
+            "statements": [
+                "The Sun is a star.",
+                "The Moon is a star larger than the Sun.",
+                "Earth is a planet."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Humans normally breathe gasoline.",
+                "Water is essential for human life.",
+                "Air contains oxygen."
+            ],
+            "answer": 0
+        },
+        {
+            "statements": [
+                "A kilogram is a unit of mass.",
+                "A liter is normally used to measure temperature.",
+                "A kilometer is a unit of distance."
+            ],
+            "answer": 1
+        },
+        {
+            "statements": [
+                "Africa is a continent.",
+                "Kenya is a country in Africa.",
+                "Kenya is located in South America."
+            ],
+            "answer": 2
+        }
+    ]
+}
+}
